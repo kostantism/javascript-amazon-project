@@ -64,3 +64,15 @@ A simple fully functional, responsive E-commerce web application built with Java
 
 ---
 
+## Run
+
+This project can be served locally using `npx serve`.
+
+```bash
+npx serve
+```
+
+After running the command, open the local server URL provided in your terminal.
+
+> **Note:** Since this project uses ES Modules, running it through a local server is recommended instead of opening the HTML files directly in the browser.
+
